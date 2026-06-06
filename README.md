@@ -1,5 +1,8 @@
 # aws-scalable-web-application
 # AWS Scalable Static Website Hosting Project
+## Architecture Diagram
+
+![AWS Architecture](Architecture/architecture-diagram.png)
 
 ## Project Overview
 
